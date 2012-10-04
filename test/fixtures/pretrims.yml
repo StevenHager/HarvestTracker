@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  harvest: 
+  container: 
+  secure_tag_code: MyString
+  initial_weigh_date: 2012-10-03
+  final_weigh_date: 2012-10-03
+  initial_total_container_weight_in_grams: 1.5
+  final_total_container_weight_in_grams: 1.5
+
+two:
+  harvest: 
+  container: 
+  secure_tag_code: MyString
+  initial_weigh_date: 2012-10-03
+  final_weigh_date: 2012-10-03
+  initial_total_container_weight_in_grams: 1.5
+  final_total_container_weight_in_grams: 1.5

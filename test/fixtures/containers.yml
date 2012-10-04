@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  identifier: MyString
+  description: MyString
+  weight_in_grams: 1
+
+two:
+  identifier: MyString
+  description: MyString
+  weight_in_grams: 1

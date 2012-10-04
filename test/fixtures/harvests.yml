@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  location: 
+  strain: 
+  harvest_date: 2012-10-03
+  plant_count: 1
+  hanger_count: 1
+  waste_in_grams: 1.5
+  product_in_grams: 1.5
+
+two:
+  location: 
+  strain: 
+  harvest_date: 2012-10-03
+  plant_count: 1
+  hanger_count: 1
+  waste_in_grams: 1.5
+  product_in_grams: 1.5
